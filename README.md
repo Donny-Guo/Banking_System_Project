@@ -1,7 +1,8 @@
-# Banking_System
+# Banking_System_Project
+This is a folk of [Banking System](https://github.com/danny-zebby/Banking_System).
 
+## What is this?
 Our Banking system is a set of Java applications with GUIs that operate over TCP/IP. It allows users to talk to a teller to create, change, and delete checking and savings accounts. Along with this, there is an around the clock ATM service for basic deposits, withdraws, and transfers. 
-
 
 
 ## Overall Architecture
